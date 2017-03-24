@@ -1604,6 +1604,7 @@ input[type="text"], input[type="number"], input[type="search"] {
 
 .container-fluid {
     padding-left: 0px;
+    padding-right: 0px;
 }
 
 .huge {
