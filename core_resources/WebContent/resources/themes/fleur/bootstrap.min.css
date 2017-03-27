@@ -1839,3 +1839,195 @@ ul.alert-dropdown {
   height: 100%;
   border: 0px;
 }
+
+/* panels */
+
+code {
+  font-size: 80%;
+}
+.huge {
+    font-size: 18px;
+    color: #00679e;
+}
+
+.panel-primary {
+    border-color: silver;
+}
+
+.panel-primary .panel-heading {
+    border-color: silver;
+    color: gray;
+    background-color: white;
+    border-bottom: 0px;
+}
+
+.panel-primary a {
+    color: #00679e;
+}
+
+.panel-primary a:hover {
+    color: #2087ae;
+}
+
+.panel-green {
+    border-color: silver;
+}
+
+.panel-green .panel-heading {
+    border-color: silver;
+    color: gray;
+    background-color: white;
+    border-bottom: 0px;
+}
+
+.panel-green a {
+    color: #00679e;
+}
+
+.panel-green a:hover {
+    color: #2087ae;
+}
+
+.panel-red {
+    border-color: silver;
+}
+
+.panel-red .panel-heading {
+    border-color: silver;
+    color: gray;
+    background-color: white;
+    border-bottom: 0px;
+}
+
+.panel-red a {
+    color: #00679e;
+}
+
+.panel-red a:hover {
+    color: #2087ae;
+}
+
+.panel-yellow {
+    border-color: silver;
+}
+
+.panel-yellow .panel-heading {
+    border-color: silver;
+    color: gray;
+    background-color: white;
+    border-bottom: 0px;
+}
+
+.panel-yellow a {
+    color: #00679e;
+}
+
+.panel-yellow a:hover {
+    color: #2087ae;
+}
+
+.panel-blue {
+    border-color: silver;
+}
+
+.panel-blue .panel-heading {
+    border-color: silver;
+    color: gray;
+    background-color: white;
+    border-bottom: 0px;
+}
+
+.panel-blue a {
+    color: #00679e;
+}
+
+.panel-blue a:hover {
+    color: #2087ae;
+}
+
+.panel-purple {
+    border-color: silver;
+}
+
+.panel-purple .panel-heading {
+    border-color: silver;
+    color: gray;
+    background-color: white;
+    border-bottom: 0px;
+}
+
+.panel-purple a {
+    color: #00679e;
+}
+
+.panel-purple a:hover {
+    color: #2087ae;
+}
+
+.panel-orange {
+    border-color: silver;
+}
+
+.panel-orange .panel-heading {
+    border-color: silver;
+    color: gray;
+    background-color: white;
+    border-bottom: 0px;
+}
+
+.panel-orange a {
+    color: #00679e;
+}
+
+.panel-orange a:hover {
+    color: #2087ae;
+}
+
+.panel-lila {
+    border-color: silver;
+}
+
+.panel-lila .panel-heading {
+    border-color: silver;
+    color: gray;
+    background-color: white;
+    border-bottom: 0px;
+}
+
+.panel-lila a {
+    color: #00679e;
+}
+
+.panel-lila a:hover {
+    color: #2087ae;
+}
+
+.panel-lblue {
+    border-color: silver;
+}
+
+.panel-lblue .panel-heading {
+    border-color: silver;
+    color: gray;
+    background-color: white;
+    border-bottom: 0px;
+}
+
+.panel-lblue a {
+    color: #00679e;
+}
+
+.panel-lblue a:hover {
+    color: #2087ae;
+}
+
+a.thumbnail {
+	padding: 0px !important;
+	border-top-left-radius: 0px;
+    border-top-right-radius: 0px;
+}
+
+.panel-heading:hover {
+	background-color: #eff4f9;
+}
+
